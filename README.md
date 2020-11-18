@@ -1,6 +1,7 @@
 <h1 align="center">🧙‍♀️ gisto</h1>
 <p align="center">Create and access gists straight to your clipboard</p>
-<p align="center">[VSCode Marketplace]('https://marketplace.visualstudio.com/items?itemName=therealtimhawkins.gisto')</p>
+
+[VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=therealtimhawkins.gisto)
 
 ## Usage
 
